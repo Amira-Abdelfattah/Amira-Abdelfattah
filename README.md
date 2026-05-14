@@ -1,20 +1,44 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,100:0a2463&height=200&section=header&text=Amira%20Abdel-Fattah&fontSize=40&fontColor=00d4ff&animation=fadeIn&fontAlignY=35&desc=Mobile%20Developer%20%7C%20Flutter%20Specialist%20%7C%20Coding%20Instructor&descAlignY=58&descSize=15&descColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,100:0a2463&height=30&section=header"/>
 
-</div>
+<br/>
 
-<div align="center">
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="160" align="center" valign="middle">
+<img src="https://github.com/Amira-Abdelfattah.png" width="130" height="130" style="border-radius:50%; border: 3px solid #00d4ff;"/>
+</td>
+<td width="40"></td>
+<td align="left" valign="middle">
+<h1>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00D4FF&width=435&lines=Amira+Abdel-Fattah" alt="Amira Abdel-Fattah"/>
+</h1>
+<p>
+<img src="https://img.shields.io/badge/Mobile%20Developer-0a2463?style=flat-square&logoColor=00d4ff"/>
+<img src="https://img.shields.io/badge/Flutter%20Specialist-0a2463?style=flat-square&logoColor=00d4ff"/>
+<img src="https://img.shields.io/badge/Coding%20Instructor-0a2463?style=flat-square&logoColor=00d4ff"/>
+</p>
+<p>
+<img src="https://img.shields.io/badge/Cairo,%20Egypt-0d0d0d?style=flat-square&logo=googlemaps&logoColor=00d4ff"/>
+</p>
+</td>
+</tr>
+</table>
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-00d4ff?style=for-the-badge&logo=linkedin&logoColor=0d0d0d)](https://linkedin.com)
 [![Gmail](https://img.shields.io/badge/Gmail-00d4ff?style=for-the-badge&logo=gmail&logoColor=0d0d0d)](mailto:amiraelmezien@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-00d4ff?style=for-the-badge&logo=github&logoColor=0d0d0d)](https://github.com/Amira-Abdelfattah)
 
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a2463,100:0d0d0d&height=30&section=footer"/>
+
 </div>
 
 ---
 
-## ` whoami`
+## `whoami`
 
 ```dart
 class AmiraAbdelFattah extends MobileDeveloper {
@@ -35,7 +59,7 @@ class AmiraAbdelFattah extends MobileDeveloper {
 
 ---
 
-## ` tech_stack`
+## `tech_stack`
 
 **Mobile Development**
 
@@ -64,7 +88,7 @@ class AmiraAbdelFattah extends MobileDeveloper {
 
 ---
 
-## ` projects`
+## `projects`
 
 ```
 .
@@ -75,6 +99,18 @@ class AmiraAbdelFattah extends MobileDeveloper {
 ├── Coffee Shop UI
 └── Travello App
 ```
+
+**Coffee Shop — High-Fidelity Flutter UI**
+> A premium, responsive, and feature-rich Coffee Shop application built with **Flutter**.
+Demonstrates a complete user journey — from a stylish onboarding experience to a detailed delivery tracking system — following modern UI/UX design patterns.
+
+---
+
+**Travello App**
+> A modern and responsive travel booking application built with **Flutter**.
+Features a clean, professional UI designed for an optimal user experience across different screen sizes.
+
+---
 
 **Metro Masr**
 > A high-performance Android app for Cairo metro passengers.
@@ -104,13 +140,8 @@ Demonstrates a complete user journey — from a stylish onboarding experience to
 
 ---
 
-**Travello App**
-> A modern and responsive travel booking application built with **Flutter**.
-Features a clean, professional UI designed for an optimal user experience across different screen sizes.
 
----
-
-## ` stats`
+## `stats`
 
 <div align="center">
 
@@ -124,7 +155,7 @@ Features a clean, professional UI designed for an optimal user experience across
 
 ---
 
-## ` currently_loading`
+## `currently_loading`
 
 ```json
 {
@@ -137,7 +168,7 @@ Features a clean, professional UI designed for an optimal user experience across
 
 ---
 
-## ` contact`
+## `contact`
 
 <div align="center">
 
