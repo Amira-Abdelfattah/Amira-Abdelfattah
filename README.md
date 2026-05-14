@@ -14,7 +14,7 @@
 
 ---
 
-## `// whoami`
+## ` whoami`
 
 ```dart
 class AmiraAbdelFattah extends MobileDeveloper {
@@ -35,7 +35,7 @@ class AmiraAbdelFattah extends MobileDeveloper {
 
 ---
 
-## `// tech_stack`
+## ` tech_stack`
 
 **Mobile Development**
 
@@ -64,7 +64,7 @@ class AmiraAbdelFattah extends MobileDeveloper {
 
 ---
 
-## `// projects`
+## ` projects`
 
 ```
 .
@@ -110,7 +110,7 @@ Features a clean, professional UI designed for an optimal user experience across
 
 ---
 
-## `// stats`
+## ` stats`
 
 <div align="center">
 
@@ -124,7 +124,7 @@ Features a clean, professional UI designed for an optimal user experience across
 
 ---
 
-## `// currently_loading`
+## ` currently_loading`
 
 ```json
 {
@@ -137,7 +137,7 @@ Features a clean, professional UI designed for an optimal user experience across
 
 ---
 
-## `// contact`
+## ` contact`
 
 <div align="center">
 
